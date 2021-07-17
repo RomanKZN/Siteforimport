@@ -3,4 +3,4 @@ tmp/
 *backup
 Thumbs.db
 .DS_store
-index.html_old
+*index.html_old
